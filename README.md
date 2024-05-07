@@ -71,5 +71,6 @@ are correct. The formatter will process each listed .arb file.
 
 ## License
 
-This tool is licensed under the [MIT License](/license). See the LICENSE file
-for full license text.
+This tool is licensed under the
+[MIT License](https://raw.githubusercontent.com/DholaSain/intl-utils-formatter/main/LICENSE).
+See the LICENSE file for full license text.
