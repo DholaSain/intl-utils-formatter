@@ -1,7 +1,7 @@
 name: intl_utils_formatter
 description:
   "A utility package for intl_utils to sort and format the arb files."
-version: 0.0.1
+version: 1.0.0
 homepage: https://dholasain.com
 
 environment:
