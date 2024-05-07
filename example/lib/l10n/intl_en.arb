@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appName": "Demo app",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "pageHomeTitle": "Welcome {firstName}",
+  "@pageHomeTitle": {
+    "description": "Welcome message on the Home screen",
+    "placeholders": {
+      "firstName": {}
+    }
+  },
+  "pageLoginPassword": "Your password",
+  "@pageLoginPassword": {},
+  "pageLoginUsername": "Your username",
+  "@pageLoginUsername": {}
+}

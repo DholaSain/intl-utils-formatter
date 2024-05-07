@@ -1,0 +1,19 @@
+{
+  "@@locale": "ur",
+  "appName": "اپلیکیشن",
+  "@appName": {
+    "description": "نام اپلیکیشن",
+    "type": "text"
+  },
+  "pageHomeTitle": "خوش آمدید {firstName}!",
+  "@pageHomeTitle": {
+    "description": "تعارفی پیغام برائے صفحہ ہوم",
+    "placeholders": {
+      "firstName": {}
+    }
+  },
+  "pageLoginPassword": "پاسورڈ",
+  "@pageLoginPassword": {},
+  "pageLoginUsername": "آپکا نام",
+  "@pageLoginUsername": {}
+}

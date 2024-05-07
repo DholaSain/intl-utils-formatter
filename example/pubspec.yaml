@@ -1,0 +1,31 @@
+name: example
+description: "Example for intl_utils_formatter package."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  intl_utils: ^2.8.7
+  intl_utils_formatter:
+    path: ../
+
+intl_utils_formatter:
+  files:
+    - lib/l10n/intl_en.arb
+    - lib/l10n/intl_ur.arb
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
