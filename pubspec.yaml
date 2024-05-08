@@ -1,11 +1,11 @@
 name: intl_utils_formatter
 description:
   "A utility package for intl_utils to sort and format the arb files."
-version: 1.0.0
+version: 1.0.1
 homepage: https://dholasain.com
 
 environment:
-  sdk: ">=3.3.4 <4.0.0"
+  sdk: ">=3.0.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:

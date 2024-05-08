@@ -14,14 +14,17 @@ and the Flutter guide for
 # intl_utils_formatter
 
 `intl_utils_formatter` is a Dart package providing a command-line tool that aids
-in the formatting of `.arb` files used in internationalizing Flutter apps. It
-allows you to define a list of `.arb` file paths within your project's
+in the formatting and sorting of `.arb` files used in internationalizing Flutter
+apps.
+
+It allows you to define a list of `.arb` file paths within your project's
 `pubspec.yaml` configuration and formats these files to ensure consistency and
 standardization.
 
 ## Features
 
 - Sort & format `.arb` files with a single command.
+- It'll sort `.arb` files in asc order with metadata keys.
 - Easily specify `.arb` file paths in `pubspec.yaml`.
 - Integrates smoothly with your existing Flutter localization workflow.
 

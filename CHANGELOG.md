@@ -1,3 +1,7 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- Initital release with all implementations.
+
+## 1.0.1
+
+- Updated dart SDK version `sdk: ">=3.0.0 <4.0.0"`
